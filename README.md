@@ -67,6 +67,6 @@ Studentët pritet të arrijnë:
 - të kuptojnë bazat e analizës numerike,  
 - të implementojnë metoda numerike në MATLAB,  
 - të analizojnë gabimet dhe stabilitetin,  
-- të zgjidhin probleme reale në shkencë dhe inxhinieri.
+- të zgjidhin ose modelojnë probleme reale në shkencë dhe inxhinieri.
 
 --------------------------------------------------
