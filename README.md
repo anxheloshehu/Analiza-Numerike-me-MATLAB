@@ -1,9 +1,9 @@
-# Analiza Numerike me MATLAB  
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/350bc1e9-2a87-49ad-a906-7841e72283c1" />
+# Metoda Numerike ne Inxhinieri  
 
 Materiale mësimore dhe ushtrime për studentët
 
-Ky repository përmban materialet zyrtare të lëndës **Analiza Numerike me MATLAB**, të përgatitura për studentët. Qëllimi është t’u ofrojë atyre një bazë të fortë teorike dhe praktike në konceptet kryesore të analizës numerike, të shoqëruara me implementime në MATLAB.
+Ky repository përmban materialet zyrtare të lëndës **Metoda Numerike ne Inxhinieri** (ose **Analiza Numerike me MATLAB**), të përgatitura për studentët. Qëllimi është t’u ofrojë atyre një bazë të fortë teorike dhe praktike në konceptet kryesore të analizës numerike, të shoqëruara me implementime në MATLAB.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc0ad706-169c-4ca6-8e58-a21f7201af3d" />
 
 --------------------------------------------------
 
