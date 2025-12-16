@@ -1,3 +1,4 @@
+%krahasimi njuton diferenca nga para nga pas edhe qendrore
 xx = pi/6;
 exact = sin(xx);
 
@@ -8,3 +9,4 @@ perafrimi_qendrore = double(subs(P_qendrore, X, xx));
 disp('Metoda e Njutonit - Diferencat')
 disp('    Exacte        Para        Pase      Qendrore')
 disp([exact perafrimi_para perafrimi_pase perafrimi_qendrore])
+
